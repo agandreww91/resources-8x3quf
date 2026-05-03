@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://agandreww91.github.io/resources-8x3quf/sitemap.xml
